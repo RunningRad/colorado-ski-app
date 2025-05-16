@@ -1,0 +1,19 @@
+The goal of this file to to scrape data relating to Colorado Ski Resorts and return the data for display.
+
+Data for the following Ski Resorts will be:
+
+Ikon:
+A-Basin x
+Winter Park x
+Copper Mountain x
+Steamboat
+Aspen Snowmass
+Eldora
+
+Epic:
+Beaver Creek
+Breckenridge
+Keystone
+Vail
+Crested Butte
+Telluride
